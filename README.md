@@ -54,7 +54,7 @@ This full stack application project was developed at [RocketSeat GoStack Bootcam
 ## ⚡️ Getting started
 
 ```
-git clone https://github.com/edbrownc/fastfeet.git
+git clone https://github.com/ebcd3v/fastfeet.git
 cd fastfeet
 ```
 
